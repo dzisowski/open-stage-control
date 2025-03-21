@@ -42,4 +42,5 @@ window.JSON.parseFlex = require('json5').parse
 
 window.DOM = require('./dom')
 
-window.TITLE = PACKAGE.productName + ' v' + PACKAGE.version
+// window.TITLE = PACKAGE.productName + ' v' + PACKAGE.version
+window.TITLE = 'Kontroler Symulacji'
